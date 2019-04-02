@@ -11,7 +11,6 @@ namespace Assignment1_Task3_Console
         static void Main(string[] args)
         {
             Scoreboard scoreboard = new Scoreboard();
-
             string playAgain = "Y";
 
             do
